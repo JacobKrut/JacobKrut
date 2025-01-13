@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Jacob.
 
-<!--
-**JacobKrut/JacobKrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Security Engineer and bug bounty hunter who enjoys finding vulnerabilities and making the internet a little harder to break. I sometimes write technical articles about my findings, which you can read at **[sirleeroyjenkins.medium.com](https://sirleeroyjenkins.medium.com/)**
 
-Here are some ideas to get you started:
+Hackerone: https://hackerone.com/sirleeroyjenkins
+Bugcrowd: https://bugcrowd.com/h/sirleeroyjenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>
+If my research has helped you, saved you time, or prevented a security headache, voluntary support is appreciated.
+
+**₿** `3CV4R4xjym9fYRyEDVhR9gpDX1VYYYmodk`
+</sub>
+
